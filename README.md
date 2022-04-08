@@ -8,6 +8,8 @@
 <img src="./images/hackerrank_problem_solv_3stars.svg" width="100" height="110"  alt="sql-badge"/>
 </p>
 
+---
+
 ```mermaid
 graph LR
     A(Try) --> B(Fail)
