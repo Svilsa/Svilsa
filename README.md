@@ -3,8 +3,10 @@
 </a>
 <br/>
 
+<p float="left">
 <img src="./images/hackerrank_sql_5stars.svg" width="100" height="110"  alt="sql-badge"/>
 <img src="./images/hackerrank_problem_solv_3stars.svg" width="100" height="110"  alt="sql-badge"/>
+</p>
 
 ```mermaid
 graph LR
